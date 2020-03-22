@@ -1,0 +1,4 @@
+C:\Users\mrt_b\Desktop\Kod S Şifreleme Programı\Kod S Şifreleme Programı\bin\Debug\Kod S Şifreleme Programı.exe
+C:\Users\mrt_b\Desktop\Kod S Şifreleme Programı\Kod S Şifreleme Programı\bin\Debug\Kod S Şifreleme Programı.pdb
+C:\Users\mrt_b\Desktop\Kod S Şifreleme Programı\Kod S Şifreleme Programı\obj\x86\Debug\Kod S Şifreleme Programı.exe
+C:\Users\mrt_b\Desktop\Kod S Şifreleme Programı\Kod S Şifreleme Programı\obj\x86\Debug\Kod S Şifreleme Programı.pdb
